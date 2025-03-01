@@ -4,8 +4,5 @@
     "dbaeumer.vscode-eslint",
     "EditorConfig.EditorConfig",
     "esbenp.prettier-vscode"
-  ],
-  "editor.codeActionsOnSave": {
-    "source.fixAll": "explicit"
-  }
+  ]
 }
